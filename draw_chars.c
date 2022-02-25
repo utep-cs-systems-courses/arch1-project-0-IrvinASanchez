@@ -14,6 +14,8 @@ void print_char_11x16(char c)
   }
 }
 
+
+
 // code made for the lab
 void print_char_5x7(char c)
 {
